@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IT\\Sharp\\Task 19\\Task 19\\Task 19.csproj": {}
+    "D:\\IT\\Sharp\\Task19\\Task 19\\Task 19.csproj": {}
   },
   "projects": {
-    "D:\\IT\\Sharp\\Task 19\\Task 19\\Task 19.csproj": {
+    "D:\\IT\\Sharp\\Task19\\Task 19\\Task 19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT\\Sharp\\Task 19\\Task 19\\Task 19.csproj",
+        "projectUniqueName": "D:\\IT\\Sharp\\Task19\\Task 19\\Task 19.csproj",
         "projectName": "Task 19",
-        "projectPath": "D:\\IT\\Sharp\\Task 19\\Task 19\\Task 19.csproj",
+        "projectPath": "D:\\IT\\Sharp\\Task19\\Task 19\\Task 19.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\IT\\Sharp\\Task 19\\Task 19\\obj\\",
+        "outputPath": "D:\\IT\\Sharp\\Task19\\Task 19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
