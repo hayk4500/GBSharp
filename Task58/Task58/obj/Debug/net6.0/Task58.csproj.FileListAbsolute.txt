@@ -1,0 +1,15 @@
+D:\IT\Sharp\Task58\Task58\bin\Debug\net6.0\Task58.exe
+D:\IT\Sharp\Task58\Task58\bin\Debug\net6.0\Task58.deps.json
+D:\IT\Sharp\Task58\Task58\bin\Debug\net6.0\Task58.runtimeconfig.json
+D:\IT\Sharp\Task58\Task58\bin\Debug\net6.0\Task58.dll
+D:\IT\Sharp\Task58\Task58\bin\Debug\net6.0\Task58.pdb
+D:\IT\Sharp\Task58\Task58\obj\Debug\net6.0\Task58.csproj.AssemblyReference.cache
+D:\IT\Sharp\Task58\Task58\obj\Debug\net6.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Sharp\Task58\Task58\obj\Debug\net6.0\Task58.AssemblyInfoInputs.cache
+D:\IT\Sharp\Task58\Task58\obj\Debug\net6.0\Task58.AssemblyInfo.cs
+D:\IT\Sharp\Task58\Task58\obj\Debug\net6.0\Task58.csproj.CoreCompileInputs.cache
+D:\IT\Sharp\Task58\Task58\obj\Debug\net6.0\Task58.dll
+D:\IT\Sharp\Task58\Task58\obj\Debug\net6.0\refint\Task58.dll
+D:\IT\Sharp\Task58\Task58\obj\Debug\net6.0\Task58.pdb
+D:\IT\Sharp\Task58\Task58\obj\Debug\net6.0\Task58.genruntimeconfig.cache
+D:\IT\Sharp\Task58\Task58\obj\Debug\net6.0\ref\Task58.dll

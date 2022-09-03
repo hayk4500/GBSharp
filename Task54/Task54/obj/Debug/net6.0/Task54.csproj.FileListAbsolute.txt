@@ -1,0 +1,15 @@
+D:\IT\Sharp\Task54\Task54\bin\Debug\net6.0\Task54.exe
+D:\IT\Sharp\Task54\Task54\bin\Debug\net6.0\Task54.deps.json
+D:\IT\Sharp\Task54\Task54\bin\Debug\net6.0\Task54.runtimeconfig.json
+D:\IT\Sharp\Task54\Task54\bin\Debug\net6.0\Task54.dll
+D:\IT\Sharp\Task54\Task54\bin\Debug\net6.0\Task54.pdb
+D:\IT\Sharp\Task54\Task54\obj\Debug\net6.0\Task54.csproj.AssemblyReference.cache
+D:\IT\Sharp\Task54\Task54\obj\Debug\net6.0\Task54.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Sharp\Task54\Task54\obj\Debug\net6.0\Task54.AssemblyInfoInputs.cache
+D:\IT\Sharp\Task54\Task54\obj\Debug\net6.0\Task54.AssemblyInfo.cs
+D:\IT\Sharp\Task54\Task54\obj\Debug\net6.0\Task54.csproj.CoreCompileInputs.cache
+D:\IT\Sharp\Task54\Task54\obj\Debug\net6.0\Task54.dll
+D:\IT\Sharp\Task54\Task54\obj\Debug\net6.0\refint\Task54.dll
+D:\IT\Sharp\Task54\Task54\obj\Debug\net6.0\Task54.pdb
+D:\IT\Sharp\Task54\Task54\obj\Debug\net6.0\Task54.genruntimeconfig.cache
+D:\IT\Sharp\Task54\Task54\obj\Debug\net6.0\ref\Task54.dll
